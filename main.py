@@ -18,6 +18,10 @@ st.title('Oferta turística en Puerto Varas')
 # Create a sidebar for filters
 st.sidebar.title('Filtros')
 
+# Filtro por tipo de alojamiento
+categorias = st.sidebar.multiselect('Tipo de alojamiento', df_procesado['tipo'].unique())
+if categorias:
+    df_procesado = df_procesado[df_procesado['tipo'].isin(categorias)]
 # Filter by score
 score = st.sidebar.slider('Score', min_value=0.0, max_value=5.0, value=(0.0, 5.0))
 df_procesado = df_procesado[(df_procesado['score'] >= score[0]) & (df_procesado['score'] <= score[1])]

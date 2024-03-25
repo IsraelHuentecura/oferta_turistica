@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 from streamlit_folium import st_folium
 import folium
-from sklearn.cluster import KMeans
 
 
 # Load the data

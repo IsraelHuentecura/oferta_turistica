@@ -6,7 +6,7 @@ import folium
 
 
 # Load the data
-df_procesado = pd.read_csv('./data/hoteles_puerto_varas_prototipo.csv', index_col=0)
+df_procesado = pd.read_csv('./data/hoteles_puerto_varas_prototipo_merge.csv')
 
 
 # Calcular centroide
@@ -28,11 +28,22 @@ df_procesado = df_procesado[(df_procesado['reviews'] >= reviews[0]) & (df_proces
 
 # Hacer mapa con Folium y marcar cada uno de los hoteles, que muestre el score y nombre cuando se pasa por arriba
 m = folium.Map(location=[-41.320084,-72.980447], zoom_start=14)
-# Add a marker for each hotel and diferent color for each category
+# Add a marker for each hotel and diferent color for each category Excellent, Very Good, Average, Poor, Terrible
 for i, row in df_procesado.iterrows():
+    if row['categorias'] == 'Excellent':
+        color = 'blue'
+    elif row['categorias'] == 'Very Good':
+        color = 'green'
+    elif row['categorias'] == 'Average':
+        color = 'orange'
+    elif row['categorias'] == 'Poor':
+        color = 'red'
+    else:
+        color = 'black'
+        
     folium.Marker([row['latitud'], row['longitud']], 
                   popup=row['nombre'],
-                    icon=folium.Icon(color='blue' if row['categorias'] == 'Excellent' else 'green',
+                    icon=folium.Icon(color=color,
                                      icon='star'),
                     tooltip=f"""<b>{row['nombre']}</b><br><br>Score: {row['score']}
                     <br>Reviews: {row['reviews']}

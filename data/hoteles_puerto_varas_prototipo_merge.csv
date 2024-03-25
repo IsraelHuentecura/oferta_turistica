@@ -1,0 +1,320 @@
+,nombre,localidad,score,reviews,categorias,latitud,longitud,tipo,index
+0,Silvestre Cabanas,Los Colonos 1183  Puerto Varas  Chile ,4.5,3.0,Excellent,-41.3297961,-72.9610638,Alojamientos,
+1,Puerto Chico Hotel,Avenida Los Colonos no. 60  Puerto Varas Chile ,4.0,263.0,Very Good,-41.3287325,-72.9606131,Alojamientos,
+2,Park Inn By Radisson Puerto Varas,La Paz 471  Puerto Varas Chile ,3.5,531.0,Average,-41.3149096,-72.9856539,Alojamientos,
+3,Hotel Puelche,Imperial 695  Puerto Varas  Chile ,4.5,347.0,Excellent,-41.3224579,-72.9768302,Alojamientos,
+4,Radisson Hotel Puerto Varas,Del Salvador 024  Puerto Varas Chile ,4.5,861.0,Excellent,-41.3179833,-72.9817776,Alojamientos,
+5,Hotel Awa,Ruta 225  Km. 27 Sector Los Riscos  Puerto Varas Chile,4.5,339.0,Excellent,-41.317802,-72.9829073,Alojamientos,
+6,Casa Azul Hostel,Manzanal 66 Corner Rosario  Puerto Varas  Chile ,4.0,342.0,Very Good,-36.9695655,-72.086518,Alojamientos,
+7,Enjoy Puerto Varas,Klenner 349  Puerto Varas  Chile ,4.0,970.0,Very Good,-41.31424655,-72.98370320522139,Alojamientos,
+8,Hotel Cabana del Lago,Klener 195 Pasaje Luis Wellmann  Puerto Varas  Chile ,4.5,950.0,Excellent,-41.3135006,-72.9847564,Alojamientos,
+9,Solace Hotel,Imperial 0211  Puerto Varas Chile ,4.5,821.0,Excellent,-41.3207091,-72.98390389552812,Alojamientos,
+10,Hotel Bellavista Puerto Varas,Av. Vicente Perez Rosales 060  Puerto Varas Chile ,4.5,481.0,Excellent,-41.3190786,-72.9805244,Alojamientos,
+11,Hotel Cumbres Puerto Varas,Av. Imperial 0561  Puerto Varas Chile ,4.5,743.0,Excellent,-41.3251885,-72.9719816,Alojamientos,
+12,Bobba Pizza,Puerto Varas,4.0,323.0,Very Good,-41.3082987965113,-72.9938292724531,Restaurant,1.0
+13,El Patio De Mi Casa,Puerto Varas,4.1,349.0,Very Good,-41.3112036074868,-72.9903512139652,Restaurant,2.0
+14,Casa Valdés,Puerto Varas,4.2,278.0,Very Good,-41.3127553577832,-72.9800190910186,Restaurant,3.0
+15,Sano Sea Food,Puerto Varas,3.2,303.0,Average,-41.3133701468602,-72.9832118611076,Restaurant,4.0
+16,Sabor Muermino,Puerto Varas,3.8,345.0,Average,-41.3126290338795,-72.9857866865295,Restaurant,5.0
+17,Bronx Puerto Varas,Puerto Varas,3.9,344.0,Average,-41.3163595291629,-72.9971297114559,Restaurant,6.0
+18,El Weñol,Puerto Varas,4.2,318.0,Very Good,-41.31373272816,-72.9898380879304,Restaurant,7.0
+19,"El Humedal, Casa Cocina",Puerto Varas,4.5,329.0,Excellent,-41.3118174664499,-72.9814525393111,Restaurant,8.0
+20,Soto Gomez Mayuri,Puerto Varas,4.2,155.0,Very Good,-41.3175848577417,-72.9906066419099,Restaurant,9.0
+21,vivir en Puerto Varas,Puerto Varas,3.9,241.0,Average,-41.3163197405817,-72.9859506561019,Restaurant,10.0
+22,Don Jorge,Puerto Varas,3.9,272.0,Average,-41.3165131675806,-72.9863368812408,Restaurant,11.0
+23,Taberna Nosé,Puerto Varas,4.0,318.0,Very Good,-41.3150912104579,-72.9849061448072,Restaurant,12.0
+24,Pataliebre Burgerbar & Café,Puerto Varas,4.3,332.0,Very Good,-41.3159614120812,-72.9837472650079,Restaurant,13.0
+25,1940 La comida de la abuelita,Puerto Varas,3.9,269.0,Average,-41.3171095061516,-72.9867015991095,Restaurant,14.0
+26,Bocaditos,Puerto Varas,4.1,342.0,Very Good,-41.3173844623528,-72.9845139304959,Restaurant,15.0
+27,El Rincon Chaitenino,Puerto Varas,3.8,327.0,Average,-41.3171255979892,-72.9863368015154,Restaurant,16.0
+28,Terramatta Cucina y Rosticceria Italiana,Puerto Varas,4.0,240.0,Very Good,-41.3174380263249,-72.9858756652036,Restaurant,17.0
+29,Pollo Varas,Puerto Varas,4.3,295.0,Very Good,-41.3239619418283,-72.988984349455,Restaurant,18.0
+30,Pa Que Ronald's,Puerto Varas,3.9,268.0,Average,-41.3238572068764,-72.9883835237804,Restaurant,19.0
+31,Frenchy's,Puerto Varas,4.2,261.0,Very Good,-41.3231159430798,-72.9860660733002,Restaurant,20.0
+32,Avila Sushi,Puerto Varas,3.5,288.0,Average,-41.3241714443227,-72.9882440553941,Restaurant,21.0
+33,Breko Sushi Bar,Puerto Varas,3.5,250.0,Average,-41.3238088728123,-72.9856476571606,Restaurant,22.0
+34,La Tuca,Puerto Varas,4.3,253.0,Very Good,-41.3237283007482,-72.9854545365926,Restaurant,23.0
+35,El Castillo,Puerto Varas,3.5,191.0,Average,-41.3187960621978,-72.984919632996,Restaurant,24.0
+36,Fuente De Soda Licarayen,Puerto Varas,3.5,239.0,Average,-41.3192211395949,-72.9850752124393,Restaurant,25.0
+37,El Retorno,Puerto Varas,4.0,277.0,Very Good,-41.3178210641425,-72.9839433271374,Restaurant,26.0
+38,Paradise,Puerto Varas,3.9,309.0,Average,-41.3190740914666,-72.985027579541,Restaurant,27.0
+39,Soc. Gastronomica El Carrito Limitada,Puerto Varas,3.8,253.0,Average,-41.319291665583,-72.9856069351321,Restaurant,28.0
+40,Ibis,Puerto Varas,4.1,284.0,Very Good,-41.31681224,-72.9833069878327,Restaurant,29.0
+41,La Mechada Nacional,Puerto Varas,4.0,305.0,Very Good,-41.3193943906693,-72.9856974755645,Restaurant,30.0
+42,Juan Maestro,Puerto Varas,3.8,286.0,Average,-41.3193958999171,-72.9857604933682,Restaurant,31.0
+43,Donde El Gordito,Puerto Varas,3.8,269.0,Average,-41.317510551467,-72.9858917577657,Restaurant,32.0
+44,La Terraza Restobar,Puerto Varas,4.2,393.0,Very Good,-41.3177039601223,-72.9869110015853,Restaurant,33.0
+45,El Maiten,Puerto Varas,4.3,334.0,Very Good,-41.3176475372164,-72.9858112855136,Restaurant,34.0
+46,Sociedad Gastronómica Soto & Lillo Ilimitada,Puerto Varas,4.3,387.0,Very Good,-41.3231562332281,-72.9854867194247,Restaurant,35.0
+47,Zeppelin - Resto Bar,Puerto Varas,3.6,328.0,Average,-41.315768253361,-72.9858931872584,Restaurant,36.0
+48,Megalodon Bar y Comida Rapida ,Puerto Varas,3.4,311.0,Average,-41.3237605276445,-72.9842207152151,Restaurant,37.0
+49,Nama Ramen,Puerto Varas,3.9,239.0,Average,-41.3240103046983,-72.9843923748107,Restaurant,38.0
+50,Restaurant Xinxin Comida China,Puerto Varas,4.1,294.0,Very Good,-41.3240425329362,-72.984242169404,Restaurant,39.0
+51,CosaWena Delivery,Puerto Varas,4.3,338.0,Very Good,-41.3244292832389,-72.9842743514087,Restaurant,40.0
+52,Restaurant El Mesón,Puerto Varas,4.1,275.0,Very Good,-41.3162195154104,-72.9858502170257,Restaurant,41.0
+53,"Foodtrucks ""Santa Enpanada"" & ""San Bolo""",Puerto Varas,3.3,345.0,Average,-41.3182353316603,-72.985909551517,Restaurant,42.0
+54,La Dispensa,Puerto Varas,4.5,331.0,Excellent,-41.3167522400395,-72.9853608595442,Restaurant,43.0
+55,Gastronómica Aroma Sur Limitada,Puerto Varas,4.2,253.0,Very Good,-41.3221737722947,-72.9890850830283,Restaurant,44.0
+56,Restaurant Doña Ines (Casino Dreams),Puerto Varas,4.4,353.0,Very Good,-41.3183449783496,-72.9814746846095,Restaurant,45.0
+57,Club Orquidea,Puerto Varas,3.9,281.0,Average,-41.3184674544409,-72.984039383295,Restaurant,46.0
+58,Bacalao Marisquería,Puerto Varas,4.1,359.0,Very Good,-41.320622919483,-72.9824035597248,Restaurant,47.0
+59,Sanguchefos,Puerto Varas,3.4,334.0,Average,-41.3213519315096,-72.9874435779769,Restaurant,48.0
+60,Restaurante Las Buenas Brasas,Puerto Varas,3.6,250.0,Average,-41.3179277922457,-72.9846483193874,Restaurant,49.0
+61,Inostroza Soto Leticia De Los Angel,Puerto Varas,3.7,331.0,Average,-41.3227700132772,-72.9851690654968,Restaurant,50.0
+62,Kikiripollo,Puerto Varas,3.6,264.0,Average,-41.3228264025952,-72.9844180414462,Restaurant,51.0
+63,Domingo y Julia,Puerto Varas,4.0,340.0,Very Good,-41.3216543190586,-72.9816233985932,Restaurant,52.0
+64,Barrio Chino,Puerto Varas,3.4,288.0,Average,-41.3228747432649,-72.9842678345743,Restaurant,53.0
+65,La Campestre,Puerto Varas,4.1,296.0,Very Good,-41.3195177918974,-72.9817029857577,Restaurant,54.0
+66,Terraza 57,Puerto Varas,3.8,381.0,Average,-41.3195955523173,-72.9825803452491,Restaurant,55.0
+67,Santo Fuego,Puerto Varas,3.5,246.0,Average,-41.319582236316,-72.9825612883212,Restaurant,56.0
+68,Puelche Restaurant,Puerto Varas,4.5,299.0,Excellent,-41.3223631353889,-72.9768172661687,Restaurant,57.0
+69,Meson Caserita,Puerto Varas,4.0,323.0,Very Good,-41.3238215570544,-72.9919980256325,Restaurant,58.0
+70,Restaurant Los Volcanes,Puerto Varas,4.1,396.0,Very Good,-41.3220650479694,-72.9771707261832,Restaurant,59.0
+71,Pan con Chancho,Puerto Varas,4.3,357.0,Very Good,-41.3241921293776,-72.9755184776409,Restaurant,60.0
+72,Delicias Steak-House Restaurant,Puerto Varas,4.1,242.0,Very Good,-41.3236725785513,-72.9744585041897,Restaurant,61.0
+73,RESTAURANT ARCHI,Puerto Varas,4.9,298.0,Excellent,-41.3188947950833,-72.9846910992075,Restaurant,62.0
+74,"Sandwichería ""Sabor"" El Bajón 2.0",Puerto Varas,3.7,319.0,Average,-41.3237330786334,-72.9832404279299,Restaurant,63.0
+75,Pizzería La Nonna,Puerto Varas,3.8,242.0,Average,-41.3239345229063,-72.9825215908745,Restaurant,64.0
+76,Store Seadood Spa,Puerto Varas,4.3,285.0,Very Good,-41.32457798773,-72.9729875432198,Restaurant,65.0
+77,Tex Mex,Puerto Varas,3.7,329.0,Average,-41.3240070440035,-72.9819851418991,Restaurant,66.0
+78,Nene's,Puerto Varas,4.1,323.0,Very Good,-41.3245468717121,-72.9801183092866,Restaurant,67.0
+79,La Completería,Puerto Varas,3.7,367.0,Average,-41.3270526082575,-72.9768567331578,Restaurant,68.0
+80,Fuente Herrera,Puerto Varas,4.3,315.0,Very Good,-41.3268937055871,-72.9769996460437,Restaurant,69.0
+81,Sushi Itadaki,Puerto Varas,3.8,295.0,Average,-41.3269098193243,-72.977002328186,Restaurant,70.0
+82,Zabalas Food,Puerto Varas,3.3,278.0,Average,-41.3271575673222,-72.9767019205758,Restaurant,71.0
+83,Martín Fast Food,Puerto Varas,3.9,264.0,Average,-41.3277121430955,-72.9753157241412,Restaurant,72.0
+84,Ciboulette Spa,Puerto Varas,4.0,328.0,Very Good,-41.3230015296233,-72.9837951490536,Restaurant,73.0
+85,"Restaurantes, Bares Y Cantinas, Felipe Ignacio Ortuzar Novoa E.I.R.L.",Puerto Varas,3.2,386.0,Average,-41.3240326174046,-72.9801471879552,Restaurant,74.0
+86,Shoper,Puerto Varas,3.3,314.0,Average,-41.326463326415,-72.9688032846644,Restaurant,75.0
+87,A Fuego Lento,Puerto Varas,4.2,263.0,Very Good,-41.3261773114769,-72.9697206454706,Restaurant,76.0
+88,Da Alessandro Pizza & Pasta,Puerto Varas,3.4,266.0,Average,-41.326463326415,-72.9688032846644,Restaurant,77.0
+89,Baretto,Puerto Varas,4.8,189.0,Excellent,-41.3268903558001,-72.967880620123,Restaurant,78.0
+90,La Trifulca Food Truck,Puerto Varas,4.3,287.0,Very Good,-41.3270434105174,-72.9664107960552,Restaurant,79.0
+91,Pescadería Lilian,Puerto Varas,4.1,333.0,Very Good,-41.3306689016169,-72.9721077648471,Restaurant,80.0
+92,Brostipollo Expres,Puerto Varas,3.8,290.0,Average,-41.3310394981911,-72.9721614136317,Restaurant,81.0
+93,Quintal,Puerto Varas,4.2,221.0,Very Good,-41.3229690441685,-72.9743540142616,Restaurant,82.0
+94,Bravo Cabrera,Puerto Varas,4.0,241.0,Very Good,-41.3255471937038,-72.9691182694812,Restaurant,83.0
+95,El Pan De La Pao,Puerto Varas,4.1,300.0,Very Good,-41.331155095283,-72.9730228641799,Restaurant,84.0
+96,Los Chilotes,Puerto Varas,4.0,307.0,Very Good,-41.3317887409351,-72.9691466334876,Restaurant,85.0
+97,Donde Alon,Puerto Varas,4.4,272.0,Very Good,-41.3321029498353,-72.9681702888467,Restaurant,86.0
+98,Que Molleja Primo Limitada,Puerto Varas,4.6,320.0,Excellent,-41.331692069245,-72.9684492417664,Restaurant,87.0
+99,Sabores Criollos del Sur Puerto Varas,Puerto Varas,3.8,259.0,Average,-41.3316195622941,-72.9682024727786,Restaurant,88.0
+100,Restaurante Entre Volcanes,Puerto Varas,3.8,284.0,Average,-41.326787735187,-72.9613289803225,Restaurant,89.0
+101,Zaatar Cocina Oriente,Puerto Varas,3.8,332.0,Average,-41.3279457799961,-72.9652627645747,Restaurant,90.0
+102,Las Delicias de Seba,Puerto Varas,3.9,248.0,Average,-41.3280344003664,-72.9648550677162,Restaurant,91.0
+103,Up Social Bar,Puerto Varas,3.9,313.0,Average,-41.3274623882327,-72.9650910945476,Restaurant,92.0
+104,Mr Shrimp,Puerto Varas,4.2,299.0,Very Good,-41.3276189804822,-72.9643742813136,Restaurant,93.0
+105,Mr Chicken Little,Puerto Varas,3.8,345.0,Average,-41.3277378178968,-72.9643903747215,Restaurant,94.0
+106,Bagual Burger,Puerto Varas,3.9,276.0,Average,-41.3277365238888,-72.964401394107,Restaurant,95.0
+107,Dharma Coffee,Puerto Varas,4.3,255.0,Very Good,-41.3275471201542,-72.9646885221606,Restaurant,96.0
+108,Japon del Lago,Puerto Varas,4.4,340.0,Very Good,-41.3276921426909,-72.963830220033,Restaurant,97.0
+109,Cocina Costera,Puerto Varas,4.0,303.0,Very Good,-41.3281745402264,-72.9626594352052,Restaurant,98.0
+110,Cata-Dog,Puerto Varas,3.6,294.0,Average,-41.327858716301,-72.9627731106089,Restaurant,99.0
+111,Inti Cocina Peruana,Puerto Varas,4.1,306.0,Very Good,-41.33717931387,-72.9702421037725,Restaurant,100.0
+112,Volcán Divino Pizzería,Puerto Varas,3.8,349.0,Average,-41.3376296640177,-72.9694194210659,Restaurant,101.0
+113,El Albertio Gastronomía en Movimiento,Puerto Varas,4.4,268.0,Very Good,-41.3336830260296,-72.9666371169956,Restaurant,102.0
+114,Empanadas de Puerto Varas,Puerto Varas,4.0,339.0,Very Good,-41.3342603614322,-72.9633675376766,Restaurant,103.0
+115,El Retorno Delivery,Puerto Varas,4.9,306.0,Excellent,-41.3343258705018,-72.9632512124142,Restaurant,104.0
+116,Marcela Rock,Puerto Varas,4.3,360.0,Very Good,-41.3344225291184,-72.9563576069037,Restaurant,105.0
+117,Perú Austral,Puerto Varas,3.8,338.0,Average,-41.3287846334318,-72.9605047800389,Restaurant,106.0
+118,Cuarto Rey,Puerto Varas,4.6,313.0,Excellent,-41.3292825410906,-72.9605280304815,Restaurant,107.0
+119,Q' Churros Puerto Varas,Puerto Varas,4.7,246.0,Excellent,-41.3285356175336,-72.9567883314563,Restaurant,108.0
+120,Bar Chiporro,Puerto Varas,3.6,241.0,Average,-41.3262644971828,-72.9480870888674,Restaurant,109.0
+121,Cevichería S'Cebiche,Puerto Varas,3.4,218.0,Average,-41.3233991157282,-72.9492736028812,Restaurant,110.0
+122,Bamboo,Puerto Varas,4.0,300.0,Very Good,-41.3231534672262,-72.9489842497021,Restaurant,111.0
+123,Romulus Pizza,Puerto Varas,3.7,341.0,Average,-41.3228848365766,-72.948992973231,Restaurant,112.0
+124,Pollo Asado,Puerto Varas,4.4,249.0,Very Good,-41.3228511938911,-72.9489871531611,Restaurant,113.0
+125,Paellas Goycoolea,Puerto Varas,3.5,404.0,Average,-41.3162849531153,-72.9414825422552,Restaurant,114.0
+126,Tanpu,Puerto Varas,3.7,373.0,Average,-41.3163565680261,-72.9417475100822,Restaurant,115.0
+127,La Manita,Puerto Varas,3.4,229.0,Average,-41.3288414570997,-72.9607368002631,Restaurant,116.0
+128,La Puerta Roja,Puerto Varas,4.8,221.0,Excellent,-41.3182223869207,-72.9839988180113,Restaurant,117.0
+129,Matt's Burger,Puerto Varas,4.0,297.0,Very Good,-41.3192376604109,-72.9859729695518,Restaurant,118.0
+130,Hola! Café Restaurant,Puerto Varas,4.4,291.0,Very Good,-41.3113644765779,-73.012918063349,Restaurant,119.0
+131,Mercato Contadino,Puerto Varas,3.1,277.0,Average,-41.3168767479841,-73.0040778103976,Restaurant,120.0
+132,The Good Cheese Pissería,Puerto Varas,5.0,266.0,Excellent,-41.3177790284246,-72.9935204890203,Restaurant,121.0
+133,Puerto Food,Puerto Varas,4.4,273.0,Very Good,-41.3176099080538,-72.990892108383,Restaurant,122.0
+134,Hanami Sushi Fusion,Puerto Varas,4.3,299.0,Very Good,-41.3173037268388,-72.989025324737,Restaurant,123.0
+135,Café Boketto,Puerto Varas,4.2,238.0,Very Good,-41.3125816213976,-72.9938531849919,Restaurant,124.0
+136,Quincho Pto Varas Seafood,Puerto Varas,3.9,320.0,Average,-41.3205512793408,-73.0003230266001,Restaurant,125.0
+137,Cevichería Tropera,Puerto Varas,3.7,405.0,Average,-41.3005324788942,-73.0126388470824,Restaurant,126.0
+138,Heisenburger,Puerto Varas,3.8,270.0,Average,-41.3125976652105,-72.9850985130098,Restaurant,127.0
+139,La Chalota,Puerto Varas,3.4,264.0,Average,-41.313206125237,-72.9833765404049,Restaurant,128.0
+140,Aurelia,Puerto Varas,4.2,242.0,Very Good,-41.3135284464789,-72.9804905020243,Restaurant,129.0
+141,Basement 415,Puerto Varas,4.2,300.0,Very Good,-41.3147533416886,-72.9846103692896,Restaurant,130.0
+142,La Independiente Puerto Varas,Puerto Varas,3.9,213.0,Average,-41.3144997638442,-72.9817870005209,Restaurant,131.0
+143,Mesa Tropera,Puerto Varas,3.6,215.0,Average,-41.3145350193497,-72.9817642018155,Restaurant,132.0
+144,Carne y Papa,Puerto Varas,4.3,366.0,Very Good,-41.315530973007,-72.9846593063033,Restaurant,133.0
+145,La Vinoteca Puerto Varas,Puerto Varas,3.3,300.0,Average,-41.3160829674827,-72.9829695175981,Restaurant,134.0
+146,Izakaya Yoko,Puerto Varas,3.7,391.0,Average,-41.3177501704068,-72.9863170195699,Restaurant,135.0
+147,Zaferani Sabor de Oriente Puerto Varas,Puerto Varas,4.5,364.0,Excellent,-41.3191738895153,-72.9857735395776,Restaurant,136.0
+148,Sous Vide Chile,Puerto Varas,4.4,309.0,Very Good,-41.3163190692283,-72.9859589903346,Restaurant,137.0
+149,Restaurante El Mesón,Puerto Varas,4.0,291.0,Very Good,-41.3168831410016,-72.9859375059786,Restaurant,138.0
+150,Muyoz Concha Lara,Puerto Varas,3.8,292.0,Average,-41.3180536085552,-72.9850550848524,Restaurant,139.0
+151,Café Restaurant Klein,Puerto Varas,3.5,254.0,Average,-41.3177151726264,-72.9853394012021,Restaurant,140.0
+152,El Retorno,Puerto Varas,4.2,278.0,Very Good,-41.3178239545815,-72.9839392855827,Restaurant,141.0
+153,Helados Pudú,Puerto Varas,3.7,305.0,Average,-41.3170624640311,-72.9831239058071,Restaurant,142.0
+154,Daruma Tea House,Puerto Varas,4.4,325.0,Very Good,-41.316627335556,-72.9836227995768,Restaurant,143.0
+155,Restaurante Club Alemán de Puerto Varas,Puerto Varas,4.3,366.0,Very Good,-41.3172558626009,-72.9853662198625,Restaurant,144.0
+156,Café Dane's,Puerto Varas,3.8,356.0,Average,-41.3179045330528,-72.9854198726524,Restaurant,145.0
+157,Café Mawen,Puerto Varas,4.3,245.0,Very Good,-41.316311054529,-72.98305146586,Restaurant,146.0
+158,Cassis Café,Puerto Varas,3.8,357.0,Average,-41.3177937402719,-72.9820858803369,Restaurant,147.0
+159,Puerto Rosa Dulcería,Puerto Varas,4.6,309.0,Excellent,-41.3247659028358,-72.9866278165216,Restaurant,148.0
+160,Mercado Local Puerto Varas,Puerto Varas,3.4,218.0,Average,-41.3212961916228,-72.9789717515548,Restaurant,149.0
+161,Bellavista 60,Puerto Varas,4.1,285.0,Very Good,-41.3189878958217,-72.9806223444335,Restaurant,150.0
+162,Aquamont Seafood SA,Puerto Varas,3.9,294.0,Average,-41.3186092784,-72.9835250451411,Restaurant,151.0
+163,Moon Restobar,Puerto Varas,3.5,368.0,Average,-41.3190196435061,-72.9836175533846,Restaurant,152.0
+164,Del Mago,Puerto Varas,3.3,338.0,Average,-41.3195111627445,-72.9833278684401,Restaurant,153.0
+165,Rolling & Wok,Puerto Varas,3.9,352.0,Average,-41.320059083023,-72.9837784928082,Restaurant,154.0
+166,Puerto Varas,Puerto Varas,3.7,405.0,Average,-41.3182397909174,-72.9839819985584,Restaurant,155.0
+167,La Naranja Puerto Varas,Puerto Varas,4.2,297.0,Very Good,-41.318400194063,-72.984069505121,Restaurant,156.0
+168,Sano & Sabroso Puerto Varas,Puerto Varas,4.8,210.0,Excellent,-41.318400193974,-72.9841151025592,Restaurant,157.0
+169,Aroma Calafate,Puerto Varas,4.6,303.0,Excellent,-41.3180819057732,-72.9839722756611,Restaurant,158.0
+170,Torino Pizzaría Burger,Puerto Varas,4.4,285.0,Very Good,-41.3178280795885,-72.9840634707488,Restaurant,159.0
+171,Café Restaurant Mamusia,Puerto Varas,4.0,339.0,Very Good,-41.317180415591,-72.9843048698477,Restaurant,160.0
+172,Pastelería y Café Ortloff,Puerto Varas,4.0,258.0,Very Good,-41.3171642994252,-72.9844872596748,Restaurant,161.0
+173,La Fête Chocolat Puerto Varas,Puerto Varas,3.8,236.0,Average,-41.3167785183427,-72.9847541393759,Restaurant,162.0
+174,Meraki Café - Restaurante ,Puerto Varas,4.5,303.0,Excellent,-41.3150265219405,-72.9862636330819,Restaurant,163.0
+175,Pizza Poli,Puerto Varas,3.7,322.0,Average,-41.3228560854767,-72.9844158513656,Restaurant,164.0
+176,Sabor Oriental Comida China,Puerto Varas,3.4,327.0,Average,-41.3239397953754,-72.9825061096317,Restaurant,165.0
+177,Sushi Homemade,Puerto Varas,4.3,170.0,Very Good,-41.3239090170537,-72.9920105910345,Restaurant,166.0
+178,Restaurant Cambalache,Puerto Varas,4.0,278.0,Very Good,-41.328181815697,-72.9606744367403,Restaurant,167.0
+179,Oxalis Cocina,Puerto Varas,3.8,285.0,Average,-41.3278433455869,-72.9572196934238,Restaurant,168.0
+180,La Olla,Puerto Varas,4.0,303.0,Very Good,-41.3274243441997,-72.9517695156282,Restaurant,169.0
+181,Restaurant La Marca,Puerto Varas,4.0,275.0,Very Good,-41.3260869783392,-72.949881323872,Restaurant,170.0
+182,Cabañas Línea Nueva,Puerto Varas,3.8,306.0,Average,-41.2903454188343,-73.015215517463,Alojamientos,1.0
+183,Hotel y Cabañas Molino Viejo,Puerto Varas,4.0,275.0,Very Good,-41.2924414247406,-73.0106663293079,Alojamientos,2.0
+184,El Monasterio,Puerto Varas,4.2,350.0,Very Good,-41.2927879829937,-73.0003131182047,Alojamientos,3.0
+185,Casa Witta Zimmermann,Puerto Varas,3.6,338.0,Average,-41.3023799204575,-73.0109775376764,Alojamientos,4.0
+186,Cabañas Los Chilcos,Puerto Varas,4.3,303.0,Very Good,-41.3081667212667,-73.0073083425187,Alojamientos,5.0
+187,Cabaña de Lata,Puerto Varas,3.9,235.0,Average,-41.312824840269,-73.0077588964969,Alojamientos,6.0
+188,Nativa Domos,Puerto Varas,4.0,284.0,Very Good,-41.3125991381591,-73.0010856613934,Alojamientos,7.0
+189,Cabañas Quimantu Aguas Calientes,Puerto Varas,4.3,274.0,Very Good,-41.309536762699,-72.9997552126722,Alojamientos,8.0
+190,Cabañas Campo Kutral,Puerto Varas,3.8,246.0,Average,-41.2926328340126,-72.9808487047862,Alojamientos,9.0
+191,"Tulipanes del Lago, Hospedaje y Cabañas",Puerto Varas,4.2,282.0,Very Good,-41.2859196277042,-72.9801272262441,Alojamientos,10.0
+192,Casa Molino Hotel Boutique y Restaurant,Puerto Varas,4.5,321.0,Excellent,-41.2850368416453,-72.9819082079641,Alojamientos,11.0
+193,Puerto Varas Cabaña ,Puerto Varas,3.9,312.0,Average,-41.3125731332109,-72.9950177988335,Alojamientos,12.0
+194,Donde Robin,Puerto Varas,3.8,314.0,Average,-41.312843091055,-72.9955488762046,Alojamientos,13.0
+195,"Refugio para Mochileros, Tia Susi",Puerto Varas,4.3,312.0,Very Good,-41.3136731278857,-72.9947388567737,Alojamientos,14.0
+196,Villa Los Presidentes,Puerto Varas,3.7,368.0,Average,-41.3141203714477,-72.9949534313329,Alojamientos,15.0
+197,Cabañas Pto Varas,Puerto Varas,4.5,287.0,Excellent,-41.3149317995844,-72.9955551309396,Alojamientos,16.0
+198,Dein Haus Hotel y Departamentos,Puerto Varas,3.1,220.0,Average,-41.3165154184727,-72.9950904320511,Alojamientos,17.0
+199,Cabañas Los Robles,Puerto Varas,4.6,327.0,Excellent,-41.3177049916857,-72.9950676317645,Alojamientos,18.0
+200,Cabañas Bosque Sur,Puerto Varas,4.0,333.0,Very Good,-41.3178641338845,-72.9941610442854,Alojamientos,19.0
+201,Hospedaje El Roble Puerto Varas,Puerto Varas,3.7,321.0,Average,-41.3188129573407,-72.9959715357313,Alojamientos,20.0
+202,Kalas Cabañas,Puerto Varas,3.6,332.0,Average,-41.3161235899172,-72.9922244913181,Alojamientos,21.0
+203,Hostal Opapa Juan,Puerto Varas,3.8,343.0,Average,-41.3147516672545,-72.9903737659873,Alojamientos,22.0
+204,Hostal y Cabañas Villa Germana,Puerto Varas,3.2,298.0,Average,-41.3146146738845,-72.9899902104742,Alojamientos,23.0
+205,Hostal Helmut Haus,Puerto Varas,4.2,306.0,Very Good,-41.3144394049433,-72.9906795372392,Alojamientos,24.0
+206,Cabañas Doña Cristina,Puerto Varas,2.9,259.0,Poor,-41.3135469305501,-72.9905749318314,Alojamientos,25.0
+207,Appartamento Southern Beauty,Puerto Varas,4.5,257.0,Excellent,-41.3131442535396,-72.9876028627365,Alojamientos,26.0
+208,Cabaña Estación del Lago,Puerto Varas,4.0,383.0,Very Good,-41.3141999150722,-72.9881205251184,Alojamientos,27.0
+209,Tradición Austral Bed & Breakfast,Puerto Varas,3.3,280.0,Average,-41.3143671261052,-72.9882921874821,Alojamientos,28.0
+210,Dolce Vita - Alojamiento Histórico,Puerto Varas,4.0,314.0,Very Good,-41.3143852577867,-72.9870744660912,Alojamientos,29.0
+211,Cabañas Tirol,Puerto Varas,3.9,287.0,Average,-41.3141837976462,-72.9863851347071,Alojamientos,30.0
+212,"Park Inn By Radisson, Puerto Varas",Puerto Varas,3.8,247.0,Average,-41.3150218722301,-72.9860900974018,Alojamientos,31.0
+213,Hostal Compass del Sur,Puerto Varas,4.4,271.0,Very Good,-41.3139924104179,-72.9852988414304,Alojamientos,32.0
+214,Enjoy Puerto Varas,Puerto Varas,4.4,223.0,Very Good,-41.3136872099727,-72.984393616751,Alojamientos,33.0
+215,Appartamento South Trip,Puerto Varas,4.4,227.0,Very Good,-41.3124879909972,-72.9847684629446,Alojamientos,34.0
+216,Hotel Cabaña del Lago,Puerto Varas,4.4,221.0,Very Good,-41.3130649307865,-72.9800121130905,Alojamientos,35.0
+217,La Guapa Hostel,Puerto Varas,3.5,406.0,Average,-41.3150214271335,-72.9844920290631,Alojamientos,36.0
+218,Park Inn Pto. Varas,Puerto Varas,4.7,288.0,Excellent,-41.315770847988,-72.9853101027853,Alojamientos,37.0
+219,Hostal El Ático,Puerto Varas,3.7,385.0,Average,-41.3150335137217,-72.9848407151377,Alojamientos,38.0
+220,Cabañas y Hospedaje Amancay,Puerto Varas,3.8,239.0,Average,-41.3163026887991,-72.9862327838462,Alojamientos,39.0
+221,Hotel Weisserhaus,Puerto Varas,4.1,335.0,Very Good,-41.3164779534729,-72.9839073051205,Alojamientos,40.0
+222,EllenHaus,Puerto Varas,3.7,284.0,Average,-41.3170722402056,-72.9836980970578,Alojamientos,41.0
+223,Hostal Casa Margouya,Puerto Varas,4.2,305.0,Very Good,-41.3170566276508,-72.9831301378038,Alojamientos,42.0
+224,Taxi Aeropuerto Puelche Patagonia,Puerto Varas,4.1,328.0,Very Good,-41.3181861351913,-72.9831159835246,Alojamientos,43.0
+225,Radisson Hotel Puerto Varas,Puerto Varas,3.6,333.0,Average,-41.317990731139,-72.98227645257,Alojamientos,44.0
+226,Hotel Bellavista,Puerto Varas,4.3,280.0,Very Good,-41.3189415637988,-72.9806215284888,Alojamientos,45.0
+227,Hotel Pinacoteca El Greco,Puerto Varas,4.1,369.0,Very Good,-41.3192979774164,-72.9826708346262,Alojamientos,46.0
+228,Ignacia Villoria,Puerto Varas,3.3,402.0,Average,-41.3193568996717,-72.984189633589,Alojamientos,47.0
+229,MaPatagonia Hostel,Puerto Varas,5.0,370.0,Excellent,-41.3180535379276,-72.9882612292291,Alojamientos,48.0
+230,Yapide,Puerto Varas,4.3,316.0,Very Good,-41.3193028091596,-72.9923691603556,Alojamientos,49.0
+231,Cabañas Araucarias del Sur,Puerto Varas,3.0,256.0,Average,-41.3181480196003,-73.0040671474576,Alojamientos,50.0
+232,Cabañas Berner,Puerto Varas,3.9,294.0,Average,-41.3213230352678,-73.0030068941132,Alojamientos,51.0
+233,Hotel Puerta del Lago,Puerto Varas,4.4,213.0,Very Good,-41.3195397793556,-72.9884526056033,Alojamientos,52.0
+234,Pensión Harald Yunge,Puerto Varas,5.0,272.0,Excellent,-41.3205953342807,-72.9904267031321,Alojamientos,53.0
+235,Apartamentos Raulí,Puerto Varas,3.3,285.0,Average,-41.3229240763072,-72.9946996997047,Alojamientos,54.0
+236,Hotel Germania,Puerto Varas,4.3,336.0,Very Good,-41.3228489071907,-72.9889797510815,Alojamientos,55.0
+237,Bed and Breakfast Vista al Lago,Puerto Varas,3.8,302.0,Average,-41.3242387872612,-72.9921984022531,Alojamientos,56.0
+238,Brisas del Llanquihue B y B,Puerto Varas,2.9,259.0,Poor,-41.3242105873835,-72.9915734473032,Alojamientos,57.0
+239,Bed & Breakfast Plus,Puerto Varas,3.7,376.0,Average,-41.3248410602151,-72.9908063354291,Alojamientos,58.0
+240,Hotel Solace Puerto Varas,Puerto Varas,3.8,371.0,Average,-41.3203339524268,-72.9838151587877,Alojamientos,59.0
+241,Camping Don Carlos,Puerto Varas,4.3,363.0,Very Good,-41.3194999757045,-72.9820931914208,Alojamientos,60.0
+242,La Ruka Cultura Nativa,Puerto Varas,3.4,280.0,Average,-41.3211920924492,-72.9820556255507,Alojamientos,61.0
+243,Cabañas Las Bandurrias,Puerto Varas,4.2,251.0,Very Good,-41.3222043148745,-72.9833605231205,Alojamientos,62.0
+244,Hotel Boutique Casa & Alma,Puerto Varas,4.7,227.0,Excellent,-41.3205605752547,-72.9828053060654,Alojamientos,63.0
+245,Casa Azul Hostel,Puerto Varas,4.4,340.0,Very Good,-41.3215879173551,-72.9817753353956,Alojamientos,64.0
+246,Manquebra Departamentos,Puerto Varas,4.4,276.0,Very Good,-41.3214912271212,-72.9824834419178,Alojamientos,65.0
+247,Hotel Cumbres Puerto Varas,Puerto Varas,3.5,221.0,Average,-41.3212285833357,-72.9773120061486,Alojamientos,66.0
+248,Patagonia Route Bed & Breakfast,Puerto Varas,4.1,195.0,Very Good,-41.3221108783699,-72.9788703683064,Alojamientos,67.0
+249,Patagonia Route Apartments,Puerto Varas,4.1,280.0,Very Good,-41.3221914542172,-72.9786101948894,Alojamientos,68.0
+250,Hostal Carla Minte,Puerto Varas,3.1,278.0,Average,-41.322056492853,-72.9778752706256,Alojamientos,69.0
+251,Hostal y Cabañas Erika,Puerto Varas,4.0,263.0,Very Good,-41.3223707332626,-72.978172995198,Alojamientos,70.0
+252,Turismo Roller,Puerto Varas,3.7,360.0,Average,-41.3224271348507,-72.9777894382878,Alojamientos,71.0
+253,Hotel Puelche,Puerto Varas,4.3,226.0,Very Good,-41.3224432506383,-72.976842619353,Alojamientos,72.0
+254,Hostal Das Hause,Puerto Varas,3.8,382.0,Average,-41.3227695740289,-72.9771349803396,Alojamientos,73.0
+255,Almabosque,Puerto Varas,4.0,274.0,Very Good,-41.3240807154143,-72.9743899062317,Alojamientos,74.0
+256,Casa Kalfu Hotel Boutique,Puerto Varas,3.7,328.0,Average,-41.3242096325107,-72.9755110650892,Alojamientos,75.0
+257,Apart Tronador,Puerto Varas,3.8,153.0,Average,-41.3250516026255,-72.9758919413592,Alojamientos,76.0
+258,Hospedaje en Puerto Varas,Puerto Varas,4.2,365.0,Very Good,-41.3248461475175,-72.9771606214017,Alojamientos,77.0
+259,Hostel Tronco del Alemán,Puerto Varas,3.9,294.0,Average,-41.3252812302956,-72.9769943280971,Alojamientos,78.0
+260,Elmo y Ana,Puerto Varas,4.6,349.0,Excellent,-41.3248219775335,-72.9785339171264,Alojamientos,79.0
+261,Wood & Wool Parking,Puerto Varas,3.3,225.0,Average,-41.3250153469554,-72.9791991024083,Alojamientos,80.0
+262,Alenttattore Hospedaje,Puerto Varas,4.5,292.0,Excellent,-41.3247353623471,-72.9803336785586,Alojamientos,81.0
+263,Cabañas Newen,Puerto Varas,3.7,398.0,Average,-41.3237785882396,-72.98459480391,Alojamientos,82.0
+264,Appartamento Alfonso Brintrup,Puerto Varas,3.4,351.0,Average,-41.3257736041338,-72.9890274824238,Alojamientos,83.0
+265,Edificio Costanera,Puerto Varas,3.5,262.0,Average,-41.3260896722839,-72.9699679682966,Alojamientos,84.0
+266,Alto Patagonia By HOM,Puerto Varas,4.2,238.0,Very Good,-41.3265661916165,-72.9682439444102,Alojamientos,85.0
+267,Cabañas Möller Arntz,Puerto Varas,4.9,284.0,Excellent,-41.3270919027608,-72.9690083738745,Alojamientos,86.0
+268,Cabañas Soldan,Puerto Varas,4.2,309.0,Very Good,-41.3272490121774,-72.9657870397252,Alojamientos,87.0
+269,Casa Raddatz Bed&Breakfast,Puerto Varas,4.5,330.0,Excellent,-41.327516899661,-72.9655349132577,Alojamientos,88.0
+270,Hotel Tres Volcanes,Puerto Varas,4.8,323.0,Excellent,-41.3279217518246,-72.9657012096829,Alojamientos,89.0
+271,Cabañas Seemann,Puerto Varas,3.8,276.0,Average,-41.3281775523445,-72.9660069826765,Alojamientos,90.0
+272,Hostal Klein,Puerto Varas,3.5,347.0,Average,-41.3285119046269,-72.9659265123371,Alojamientos,91.0
+273,Turismo Puerto Eden,Puerto Varas,3.7,423.0,Average,-41.3285944865578,-72.9653498404071,Alojamientos,92.0
+274,Casa Apel Hostel,Puerto Varas,3.9,181.0,Average,-41.3290557254397,-72.9661384123775,Alojamientos,93.0
+275,Apart Hotel Nómades del Lago,Puerto Varas,3.8,262.0,Average,-41.3286690083741,-72.9646980654854,Alojamientos,94.0
+276,Casa Ellies Hotel Boutique,Puerto Varas,3.9,207.0,Average,-41.3284031394236,-72.9633864638798,Alojamientos,95.0
+277,Puerto Austral,Puerto Varas,3.2,331.0,Average,-41.3283930692618,-72.962898301297,Alojamientos,96.0
+278,Hotel Terrazas del Lago,Puerto Varas,3.6,283.0,Average,-41.32822663478,-72.9613791346089,Alojamientos,97.0
+279,Puerto Chico,Puerto Varas,3.8,242.0,Average,-41.3285730714005,-72.9609070689792,Alojamientos,98.0
+280,Hostal y Cabañas Verde Nativo,Puerto Varas,4.1,248.0,Very Good,-41.3290967517884,-72.9609070689137,Alojamientos,99.0
+281,Departamento Puerto Varas Patagonia,Puerto Varas,4.5,147.0,Excellent,-41.3293646322752,-72.9616688123951,Alojamientos,100.0
+282,Casona Puerto Varas,Puerto Varas,3.4,300.0,Average,-41.3300051263607,-72.9607112666407,Alojamientos,101.0
+283,Pucará Cabañas,Puerto Varas,3.7,310.0,Average,-41.3303032151191,-72.9609499839705,Alojamientos,102.0
+284,Departamento Cabaña Puerto Varas,Puerto Varas,3.1,368.0,Average,-41.330490527797,-72.9614622870438,Alojamientos,103.0
+285,Puerto Varas Apartment,Puerto Varas,3.7,335.0,Average,-41.330957798343,-72.9619316718255,Alojamientos,104.0
+286,Apart  Hotel Nómades del Lago,Puerto Varas,4.0,274.0,Very Good,-41.3286715271322,-72.9647134418797,Alojamientos,105.0
+287,Cabañas Sur Patagón,Puerto Varas,4.2,311.0,Very Good,-41.3275113645655,-72.9640643385981,Alojamientos,106.0
+288,Cabaña Oro Rayado Puerto Varas,Puerto Varas,4.3,281.0,Very Good,-41.3346880210637,-72.9703185805358,Alojamientos,107.0
+289,Casa Ensenada Excelente Ubicación,Puerto Varas,3.8,207.0,Average,-41.331423738999,-72.9740985291284,Alojamientos,108.0
+290,Puerto Varas,Puerto Varas,3.9,273.0,Average,-41.3265035747683,-72.9738917541591,Alojamientos,109.0
+291,Cabaña Puerto Varas,Puerto Varas,4.4,264.0,Very Good,-41.327367222998,-72.970098567939,Alojamientos,110.0
+292,Alto Pehuén,Puerto Varas,4.2,341.0,Very Good,-41.3278486147762,-72.9705250386407,Alojamientos,111.0
+293,Wool and Wood House,Puerto Varas,4.4,266.0,Very Good,-41.3316990868949,-72.9684725998345,Alojamientos,112.0
+294,Cabañas La Reserva,Puerto Varas,4.3,285.0,Very Good,-41.3309197924941,-72.9596550749614,Alojamientos,113.0
+295,Cabañas Los Pinos,Puerto Varas,3.8,288.0,Average,-41.3283336511065,-72.9592581516683,Alojamientos,114.0
+296,Cabañas Los Pinis,Puerto Varas,3.2,297.0,Average,-41.3293326641827,-72.9599662306905,Alojamientos,115.0
+297,Cabañas Lago Sur,Puerto Varas,4.2,275.0,Very Good,-41.3288069648465,-72.9576917227632,Alojamientos,116.0
+298,Casa Alma,Puerto Varas,3.8,290.0,Average,-41.3281785532446,-72.9599125804063,Alojamientos,117.0
+299,Canales del Sur,Puerto Varas,3.7,308.0,Average,-41.3284403953866,-72.9574985850027,Alojamientos,118.0
+300,Hostal Climbhouse,Puerto Varas,5.0,308.0,Excellent,-41.3285169353144,-72.9567904903627,Alojamientos,119.0
+301,Patagonia Apartments,Puerto Varas,4.1,295.0,Very Good,-41.3300074012914,-72.9570211631516,Alojamientos,120.0
+302,Cabañas Inaftulafquen,Puerto Varas,4.2,247.0,Very Good,-41.3273809356172,-72.9523326582097,Alojamientos,121.0
+303,Hotel Agua Nativa,Puerto Varas,4.0,442.0,Very Good,-41.3275319930687,-72.9498435769618,Alojamientos,122.0
+304,Hotel Arrebol,Puerto Varas,3.2,244.0,Average,-41.3263798687243,-72.9482986214447,Alojamientos,123.0
+305,Cabañas Huayun,Puerto Varas,4.2,311.0,Very Good,-41.3192114344025,-72.9491405772474,Alojamientos,124.0
+306,Casa km 2,Puerto Varas,3.5,409.0,Average,-41.3161561341327,-72.9393475852895,Alojamientos,125.0
+307,Hostal Brisas del Sur,Puerto Varas,4.1,317.0,Very Good,-41.336557361474,-72.9708555333142,Alojamientos,126.0
+308,Hotel Los Caiquenes,Puerto Varas,4.3,273.0,Very Good,-41.334999979581,-72.9728474414887,Alojamientos,127.0
+309,Cabañas en Puerto Varas,Puerto Varas,3.8,219.0,Average,-41.3244049462122,-73.0080329282588,Alojamientos,128.0
+310,Hotel Alto Puerto Varas,Puerto Varas,4.0,347.0,Very Good,-41.3188171119719,-73.0139995820172,Alojamientos,129.0
+311,Parcelación Crell,Puerto Varas,3.9,314.0,Average,-41.3199408180737,-73.010971201339,Alojamientos,130.0
+312,ApartHotel Kintumay,Puerto Varas,4.5,257.0,Excellent,-41.3100048123607,-72.9775693646228,Alojamientos,131.0
+313,Hogar Alemán,Puerto Varas,3.5,311.0,Average,-41.329074567552,-72.9886036270693,Alojamientos,132.0
+314,Hospedaje Vientos del Sur,Puerto Varas,3.9,254.0,Average,-41.3299476708412,-72.9881710083986,Alojamientos,133.0
+315,Hotel Casa Kaiser,Puerto Varas,5.0,240.0,Excellent,-41.3202619393915,-72.9863109862145,Alojamientos,134.0
+316,Vita,Puerto Varas,3.7,370.0,Average,-41.3174023757859,-72.9918747541345,Alojamientos,135.0
+317,South America Host,Puerto Varas,3.8,250.0,Average,-41.31722298457,-72.9918882739845,Alojamientos,136.0
+318,Casa Gramado,Puerto Varas,4.1,370.0,Very Good,-41.317050360142,-72.9911266633054,Alojamientos,137.0

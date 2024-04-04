@@ -32,8 +32,7 @@ stopwords = [
     'en', 'y', 'a', 'los', 'del',
     'se', 'las', 'por', 'un', 'para',
     'con', 'no', 'una', 'su','muy', 'puerto', 
-    'varas','sus','casa', 'lugar', 'e','es','mi','al','lo','me','mi','mis','mis','son'
-    
+    'varas','sus','casa', 'lugar', 'e','es','mi','al','lo','me','mi','mis','mis','son','uno'
 ]
 # Eliminar stopwords de los comentarios
 comentarios = [comentario.lower() for comentario in comentarios]

@@ -4,3 +4,4 @@ pandas
 numpy
 streamlit_folium
 streamlit
+wordcloud

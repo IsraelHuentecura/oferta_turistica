@@ -57,6 +57,31 @@ for i, row in df_procesado.iterrows():
                     
                   ).add_to(m)
     
+# Agregar columna de mapa
+leyenda_html = """
+<div style="
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+    z-index: 1000;
+    padding: 6px 8px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 2px solid grey;
+    font-size: 14px;
+    font-weight: bold;
+    width: 200px;
+    height: 100px;
+    ">
+    <p> Leyenda </p>
+    <p> Excellent: Azul </p>
+    <p> Very Good: Verde </p>
+    <p> Average: Naranjo </p>
+    <p> Poor: Rojo </p>
+</div>
+"""
+m.get_root().html.add_child(folium.Element(leyenda_html))
+
     
 col1, col2 = st.columns([1, 1])
 
@@ -66,8 +91,17 @@ st_data = st_folium(m, width=725)
 
 # Hacer grafico de proporciones de categorias
 fig = px.pie(df_procesado, names='categorias', title='Proporción de categorías')
+# Very good es verde
+fig.update_traces(marker=dict(colors=['blue', 'green', 'orange', 'red', 'black']))
+
+
 col2.plotly_chart(fig)
+
+
 
 # Display the filtered dataframe
 col1.write(df_procesado)
+
+# Cuantos hoteles o restaurantes hay en total
+col1.write(f'Número de hoteles o restaurantes: {len(df_procesado)}')
 

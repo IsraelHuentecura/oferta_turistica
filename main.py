@@ -8,7 +8,7 @@ import folium
 # Load the data
 df_procesado = pd.read_csv('./data/hoteles_puerto_varas_prototipo_merge.csv')
 
-
+st.set_page_config(layout="wide")
 # Calcular centroide
 centroide = df_procesado[['latitud', 'longitud']].mean()
 
@@ -30,8 +30,9 @@ df_procesado = df_procesado[(df_procesado['score'] >= score[0]) & (df_procesado[
 reviews = st.sidebar.slider('Número de Reviews', min_value=0, max_value=int(df_procesado['reviews'].max()), value=(0, int(df_procesado['reviews'].max())))
 df_procesado = df_procesado[(df_procesado['reviews'] >= reviews[0]) & (df_procesado['reviews'] <= reviews[1])]
 
-# Hacer mapa con Folium y marcar cada uno de los hoteles, que muestre el score y nombre cuando se pasa por arriba
+# Hacer mapa con Folium y marcar cada uno de los hoteles, que muestre el score y nombre cuando se pasa por arriba y con leyenda
 m = folium.Map(location=[-41.320084,-72.980447], zoom_start=14)
+
 # Add a marker for each hotel and diferent color for each category Excellent, Very Good, Average, Poor, Terrible
 for i, row in df_procesado.iterrows():
     if row['categorias'] == 'Excellent':
@@ -44,7 +45,8 @@ for i, row in df_procesado.iterrows():
         color = 'red'
     else:
         color = 'black'
-        
+    # Add the marker to the map
+    # add legend
     folium.Marker([row['latitud'], row['longitud']], 
                   popup=row['nombre'],
                     icon=folium.Icon(color=color,
@@ -53,55 +55,58 @@ for i, row in df_procesado.iterrows():
                     <br>Reviews: {row['reviews']}
                     <br>Categoria: {row['categorias']}
                     <br>Direccion: {row['localidad']}
-                    """
+                    """,
+                    
                     
                   ).add_to(m)
     
-# Agregar columna de mapa
-leyenda_html = """
-<div style="
-    position: fixed;
-    bottom: 50px;
-    left: 50px;
-    z-index: 1000;
-    padding: 6px 8px;
-    background: #FFFFFF;
-    border-radius: 5px;
-    border: 2px solid grey;
-    font-size: 14px;
-    font-weight: bold;
-    width: 200px;
-    height: 100px;
-    ">
-    <p> Leyenda </p>
-    <p> Excellent: Azul </p>
-    <p> Very Good: Verde </p>
-    <p> Average: Naranjo </p>
-    <p> Poor: Rojo </p>
-</div>
-"""
-m.get_root().html.add_child(folium.Element(leyenda_html))
 
     
-col1, col2 = st.columns([1, 1])
+col1, col2, col3 = st.columns([1, 1, 1])
 
 
-# call to render Folium map in Streamlit
-st_data = st_folium(m, width=725)
-
-# Hacer grafico de proporciones de categorias
-fig = px.pie(df_procesado, names='categorias', title='Proporción de categorías')
-# Very good es verde
-fig.update_traces(marker=dict(colors=['blue', 'green', 'orange', 'red', 'black']))
+# call to render Folium map in Streamlit with legend
+st_data = st_folium(m, width=1500, height=800)
 
 
-col2.plotly_chart(fig)
+nombre_grafico_torta = f'Proporción de categorías de evaluación de {categorias} en Puerto Varas' if categorias else 'Proporción de categorías de evaluación en Puerto Varas'
+# Hacer grafico de proporciones de categorias en consonancia con el mapa
+# Define the color mapping
+color_mapping = {'Excellent': 'blue',
+                 'Very Good': 'green',
+                 'Average': 'orange',
+                 'Poor': 'red',
+                 'Terrible': 'black'}
 
+# Create the pie chart
+fig = px.pie(df_procesado, names='categorias', title=nombre_grafico_torta, hole=0.5,
+             color='categorias', color_discrete_map=color_mapping)
+
+col1.plotly_chart(fig)
+
+
+
+
+# Cuantos hoteles o restaurantes hay en total
+col3.write(f'Número de hoteles o restaurantes: {len(df_procesado)}')
 
 
 # Display the filtered dataframe
-col1.write(df_procesado)
+col3.write(df_procesado)
 
-# Cuantos hoteles o restaurantes hay en total
-col1.write(f'Número de hoteles o restaurantes: {len(df_procesado)}')
+# Agregar un mapa de calor de la cantidad de reviews
+import folium.plugins as plugins
 
+# Create a list of coordinates and reviews
+data = df_procesado[['latitud', 'longitud', 'reviews']].values.tolist()
+
+# Create a heatmap pero sin los marcadores
+m = folium.Map(location=[-41.320084,-72.980447], zoom_start=14)
+
+heatmap = plugins.HeatMap(data)
+
+# Add the heatmap to the map
+heatmap.add_to(m)
+
+# Render the map
+st_folium(m, width=1500, height=800)

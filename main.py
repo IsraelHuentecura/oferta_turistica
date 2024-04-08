@@ -65,18 +65,22 @@ for i, row in df_procesado.iterrows():
     
 col1, col2, col3 = st.columns([1, 1, 1])
 
-st.markdown(f"# Mapa de {categorias[0]} en Puerto Varas" if categorias else "# Mapa de alojamientos y restaurantes en Puerto Varas")
+if categorias == ['Alojamientos'] and len(categorias) < 2:
+    nombre_grafico_torta = f'Proporción de categorías de evaluación de alojamientos'
+    nombre_mapa = f'Mapa de alojamientos en Puerto Varas'
+elif categorias == ['Restaurantes'] and len(categorias) < 2:
+    nombre_grafico_torta = f'Proporción de categorías de evaluación de restaurantes'
+    nombre_mapa = f'Mapa de restaurantes en Puerto Varas'
+else:
+    nombre_grafico_torta = f'Proporción de categorías de evaluación de alojamientos y restaurantes'
+    nombre_mapa = f'Mapa de alojamientos y restaurantes en Puerto Varas'
+     
 
+st.markdown(f"# {nombre_mapa}\n\nCada marcador representa un alojamiento o restaurante, y su color indica la categoría de evaluación. Pasa el mouse sobre los marcadores para ver más información.")
 # call to render Folium map in Streamlit with legend
 st_data = st_folium(m, width=1500, height=800)
 
-if categorias == ['Alojamientos']:
-    nombre_grafico_torta = f'Proporción de categorías de evaluación de alojamientos'
-elif categorias == ['Restaurantes']:
-    nombre_grafico_torta = f'Proporción de categorías de evaluación de restaurantes'
-else:
-    nombre_grafico_torta = f'Proporción de categorías de evaluación de alojamientos y restaurantes'
-     
+
 # Hacer grafico de proporciones de categorias en consonancia con el mapa
 # Define the color mapping
 color_mapping = {'Excellent': 'blue',

@@ -92,8 +92,7 @@ col3.write(f'Número de hoteles o restaurantes: {len(df_procesado)}')
 
 
 # Display the filtered dataframe
-col3.write(df_procesado)
-
+col3.dataframe(df_procesado[['nombre', 'score', 'reviews', 'categorias', 'localidad']])
 # Agregar un mapa de calor de la cantidad de reviews
 import folium.plugins as plugins
 

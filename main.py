@@ -70,8 +70,13 @@ st.markdown(f"# Mapa de {categorias[0]} en Puerto Varas" if categorias else "# M
 # call to render Folium map in Streamlit with legend
 st_data = st_folium(m, width=1500, height=800)
 
-
-nombre_grafico_torta = f'Proporción de categorías de evaluación de {categorias} en Puerto Varas' if categorias else 'Proporción de categorías de evaluación en Puerto Varas'
+if categorias == ['Alojamientos']:
+    nombre_grafico_torta = f'Proporción de categorías de evaluación de alojamientos'
+elif categorias == ['Restaurantes']:
+    nombre_grafico_torta = f'Proporción de categorías de evaluación de restaurantes'
+else:
+    nombre_grafico_torta = f'Proporción de categorías de evaluación de alojamientos y restaurantes'
+     
 # Hacer grafico de proporciones de categorias en consonancia con el mapa
 # Define the color mapping
 color_mapping = {'Excellent': 'blue',

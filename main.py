@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 from streamlit_folium import st_folium
 import folium
+import folium.plugins as plugins
 
 
 # Load the data
@@ -50,7 +51,7 @@ for i, row in df_procesado.iterrows():
     folium.Marker([row['latitud'], row['longitud']], 
                   popup=row['nombre'],
                     icon=folium.Icon(color=color,
-                                     icon='star'),
+                                     icon='glyphicon glyphicon-home' if row['tipo'] == 'Alojamientos' else 'glyphicon glyphicon-cutlery'),
                     tooltip=f"""<b>{row['nombre']}</b><br><br>Score: {row['score']}
                     <br>Reviews: {row['reviews']}
                     <br>Categoria: {row['categorias']}
@@ -64,6 +65,7 @@ for i, row in df_procesado.iterrows():
     
 col1, col2, col3 = st.columns([1, 1, 1])
 
+st.markdown(f"# Mapa de {categorias[0]} en Puerto Varas" if categorias else "# Mapa de alojamientos y restaurantes en Puerto Varas")
 
 # call to render Folium map in Streamlit with legend
 st_data = st_folium(m, width=1500, height=800)
@@ -95,7 +97,7 @@ col3.write(f'Número de hoteles o restaurantes: {len(df_procesado)}')
 col3.write(df_procesado)
 
 # Agregar un mapa de calor de la cantidad de reviews
-import folium.plugins as plugins
+
 
 # Create a list of coordinates and reviews
 data = df_procesado[['latitud', 'longitud', 'reviews']].values.tolist()
@@ -108,5 +110,6 @@ heatmap = plugins.HeatMap(data)
 # Add the heatmap to the map
 heatmap.add_to(m)
 
+st.markdown("# Mapa de calor según concentración de reviews\n\nEste mapa muestra la concentración de reviews en Puerto Varas. Mientras más rojo, mayor concentración de reviews en esa zona.")
 # Render the map
 st_folium(m, width=1500, height=800)

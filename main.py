@@ -94,7 +94,7 @@ col3.write(f'Número de hoteles o restaurantes: {len(df_procesado)}')
 
 
 # Display the filtered dataframe
-col3.write(df_procesado)
+#col3.write(df_procesado)
 
 # Agregar un mapa de calor de la cantidad de reviews
 
